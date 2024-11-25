@@ -1,3 +1,3 @@
 # pdf
-
-// https://converter-1uhy0uv9u-gagan-uppals-projects.vercel.app
+My pdf to jpg converter is now working in local machine but now i am deploying it and CORS error is stopping me make it run , i can provide you frontend link here 
+https://converter-navy.vercel.app/
